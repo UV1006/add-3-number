@@ -1,4 +1,4 @@
-public class HelloStudent {
+public class helloStudent {
 
     public static void main(String[] args) {
         String studentName = "Uday,Bhupendra"; 
