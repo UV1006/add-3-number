@@ -4,5 +4,6 @@ public class hellostudent {
         String studentName = "Uday,Bhupendra"; 
         System.out.println("Hello, " + studentName + "!");
 	System.out.println("Welcome to C-DAC");
+	System.out.println("Welcome to DITISS");
     }
 }
